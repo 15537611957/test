@@ -1,4 +1,4 @@
 # test
 简单描述
 
-简单描述 2.2.release
+简单描述 2.0 hotfix
